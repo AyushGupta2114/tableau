@@ -16,7 +16,9 @@ The great thing about Tableau software is that it doesn’t require any technica
 
 Working with Tableau Public 🚀
 
+[Watch the Data](https://public.tableau.com/app/profile/ayush.gupta1777/viz/2018-W51LondonBusSafetyPerformance_16808112706970/Dashboard1?publish=yes)
 
 ![Dashboard 1 London Bus ](https://user-images.githubusercontent.com/94870982/230562855-49edf45f-88c1-44b2-b579-c483f280e61d.jpg)
+[Watch the Data](https://public.tableau.com/app/profile/ayush.gupta1777/viz/AlcoholData_16808998744350/Dashboard1)
 
 ![Dashboard 1](https://user-images.githubusercontent.com/94870982/230678647-ea2b681f-9def-4fdb-b1bd-0db30f72c5b9.png)
